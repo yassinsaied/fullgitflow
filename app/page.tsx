@@ -15,7 +15,7 @@ export default function Home() {
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-slate-400">
             A simple and modern starting point built with Next.js.
           </p>
-          <p>Testing Pull Request template</p>
+          <p>Testing Pull Request templateS</p>
           <div className="mt-8 flex justify-center gap-4">
             <button className="rounded-xl bg-blue-600 px-6 py-3 font-medium transition hover:bg-blue-500">
               Get Started
