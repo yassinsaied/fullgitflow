@@ -31,3 +31,8 @@ Clone the repository:
 ```bash
 git clone <repository-url>
 cd nextjs-gitflow-demo
+```
+
+## Contributing
+
+Please read our [Contributing Guide](.github/CONTRIBUTING.md) before creating a Pull Request.
